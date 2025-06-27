@@ -1,4 +1,6 @@
 💻 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gothel8&layout=compact&theme=dark)
+
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
