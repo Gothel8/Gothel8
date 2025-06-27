@@ -9,6 +9,6 @@
 
 
 
-![Gothel8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gothel8&show_icons=true&theme=react)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gothel8&layout=compact&theme=react)
 
