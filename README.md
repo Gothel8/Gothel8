@@ -1,4 +1,4 @@
-# 👋S.a
+# 👋
 
 
 ## 💻 Kullandığım Teknolojiler
