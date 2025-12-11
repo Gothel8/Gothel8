@@ -1,6 +1,3 @@
-💻 
-
-
 ![Top Langs](https://github-readme-stat-psi-sepia.vercel.app/api/top-langs/?username=Gothel8&layout=compact&theme=dark)
 
 
